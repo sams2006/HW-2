@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My business card</string>
+    <string name="hello_welcome_to">Hello , welcome to</string>
+    <string name="tuwiq_academy">Tuwaiq Academy</string>
+    <string name="training_more">Traning more</string>
+    <string name="what_we_offer">What We offer</string>
+    <string name="specialized_in_training">Specialized in Training.</string>
+    <string name="what_is_included">What\'s included :</string>
+    <string name="multi_training">● Multi training experiences.</string>
+    <string name="bootcamp">● Bootcamps.</string>
+    <string name="work_shop">● Workshops.</string>
+    <string name="webinars">● Webinars.</string>
+    <string name="talks">● Talks.</string>
+    <string name="bussiness_details">Busieness details</string>
+    <string name="tuwiq_all_right_reserved">© 2022 Tuwaiq Academy.All rights reserved</string>
+    <string name="riyadh">Riyadh</string>
+    <string name="todo">TODO</string>
+</resources>
